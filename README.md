@@ -1,3 +1,3 @@
 # Tarantula
 
-simple github scrapper written in go
+simple web crawler written in go
